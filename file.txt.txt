@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CAPES CONSTRUCTION</title>
+	<link href='https://fonts.googleapis.com/css?family=Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif' rel='stylesheet'>
+	<style type="text/css">
+		#head{
+			text-align: center;
+			background-color: darkslategray;
+			height: 150px;
+			min-width: 100%;
+			margin: 0px;
+			padding: 1px;
+		}
+		#name{
+			position: relative;
+			top: 12px;
+			color: white;
+			font-size: 40px;
+		}
+		.sub a{
+			text-decoration: none;
+			color: white;
+
+		}
+		#l1{
+			position: relative;
+			left:-150px;
+		}
+		#l2{
+			position: relative;
+			left: -50px;
+		}
+		#l3{
+			position: relative;
+			left: 50px;
+		}
+		#l4{
+			position: relative;
+			left: 150px;
+		}
+		#intro{
+			font-size: 30px;
+			text-align: center;
+			font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+		}
+		#moto{
+			text-align: center;
+			font-size: 20px;
+		}
+		#image1
+		{
+			 display: block;
+  margin-left: auto;
+  margin-right: auto;
+		}
+		h5{
+			text-align: center;
+			font-size: 25px;
+			padding: 0px;
+			margin: 0px;
+		}
+		ul { display: inline-block; text-align: center;
+		list-style: none; }
+		#aboutus{
+			text-align: center;
+			font-size: 20px;
+
+		}
+		#ourprocess{
+			text-align: center;
+			font-size: 20px;
+		}
+		#contact{
+			text-align: center;
+			font-size: 20px;
+		}
+		#milestones{
+			text-align: center;
+			font-size: 20px;
+		}
+		
+	</style>
+</head>
+<body>
+	<div id="head">
+		<h1 id="name">CAPES CONSTRUCTION</h1>
+		<div class="sub">
+			<a id="l1" href="#aboutus">ABOUT US</a>
+			<a id="l2" href="#ourprocess">OUR SERVICES</a>
+			<a  id="l3" href="#contact">CONTACT</a>
+			<a id="l4" href="#milestones">OUR PROCESS</a>
+	</div>
+	</div>
+	<br>
+	<br>
+	<p id="intro">AT CAPES CONSTRUCTION WE ARE DEDICATED TO DELIVERING<br> REAL PERSONAL SERVICE AND QUALITY <br>CRAFTSMANSHIP</p>
+	<br>
+	<p id="moto">THE MOST IMPORTANT PERSON IN OUR BUSINESS IS YOU.
+		<br>
+	We understand how important your home and business are to you and our aim at Stronghold Construction is to make your building
+	<br> experience one that you are happy to remember.</p>
+	<img id="image1" src="img/construction.JPG" style="width:50%;">
+	<br>
+	<div id="aboutus">
+		<h5>THIS IS WHAT WE DOING</h5>
+		<p>
+		Whether you know exactly how you want your new home to be or just looking for 
+		<br>
+		new ideas to build your new house, CAPES Contruction offers priceless resources 
+		<br>
+		to help bring those ideas to life in a seamless manner.
+		</p>
+	</div>
+	<div id="ourprocess">
+		<h5>OUR SERVICES</h5>
+		<p>
+			CAPES CONSTRUCTION offers a complete range on construction services.
+			<br>
+			We are constantly developing our techniques to get our projects completed
+			<br>
+			within required time and budget.CAPES CONSTRUCTION delivers highest level
+			<br>
+			of quality service with professional and dedicated team.
+			<br>
+			<ul>
+				<li>Building</li>
+				<li>Residential</li>
+				<li>Commercial</li>
+				<li>Villas</li>
+				<li>Compound</li>
+				<li>Infrastructure</li>
+				<li>All Kinds Of Building Contracting</li>
+			</ul>
+		</p>
+	</div>
+	<div id="milestones">
+		<h5>OUR PROCESS</h5>
+		<p>
+			With over 15 years of experience, company director Jackson MacCue is focused on providing structural retaining walls with timeless integrity.
+<br>
+			The concrete sleeper system is designed to perform in Australia’s toughest conditions with structural reliability other systems cannot hope to match.
+<br>
+			With our start to finish project management, Jackson ensures stress-free professional results on each project as your direct point of contact.
+			<br>
+			Great reputation & positive word of mouth is our main source of advertising.
+			<br>
+			Fill in the form below for advice on how to get started with your next project and request a free quote.
+		</p>
+	</div>
+	<div id="contact">
+		<h5>CONTACT US TODAY</h5>
+		<p>
+			Email:info@CAPES_CONSTRUCTION.com
+			<br>
+			Phone:0900528978
+			<br>
+			Address:CAPES CONSTRUCTION Lane:2 Street:Parkways Ohio
+		</p>
+	</div>
+	
+
+
+</body>
+</html>
